@@ -8,7 +8,7 @@ This repository contains:
 root
   ├─ data     # behavioural data and plots 
        ├─ plots 
-       ├─ stanfit # stanfit objects
+       ├─ stanfit # stanfit objects (the files are too large to be included here)
   ├─ scripts  # R and Stan code to run the analyses and produce figures
        ├─ helper_functions 
        ├─ stan_model 
